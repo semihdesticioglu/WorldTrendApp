@@ -1,5 +1,5 @@
 # WorldTrendApp
-A no-code mobile app for discovering trending songs, TV series, movies, searches, and tweets based on country.
+A no-code mobile app for discovering trending songs, TV series, movies, searches, and tweets based on country. I and my friend created a mobile app on the FlutterFlow platform using no-code front-end development and Google Firebase.
 
 
 https://trendapp.app/
